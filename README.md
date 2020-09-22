@@ -14,4 +14,4 @@ There are a couple of things to note:
 
 Make your clock as beautiful as you want:
 
-![Nicholas Cage Clock](nicCageClock.png)
+![Nicholas Cage Clock](nicCageClock.PNG)
